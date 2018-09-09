@@ -5,7 +5,7 @@
 
 	An ongoing aim of this service worker is to make the caching strategy really
 	clean for the user and as a result easy for the developer to understand. We
-	don't want to cache hundreds or thousands of items to provide an online
+	don't want to cache hundreds or thousands of items to provide an offline
 	experience, just the essentials.
 
 	It should be easy to manipulate this file if certain features of this worker
